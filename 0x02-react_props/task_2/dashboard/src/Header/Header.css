@@ -1,0 +1,18 @@
+.App-header {
+  background-color: #ffffff;
+  height: 20vh;
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  align-items: center;
+  justify-content: flex-start;
+  font-size: calc(6px + 2vmin);
+  color: rgba(233, 37, 37, 0.894);
+  border-bottom: 2px solid rgba(233, 37, 37, 0.894);
+  padding: 10px 5px;
+}
+
+.logo {
+  width: 135px;
+  height: 135px;
+}
