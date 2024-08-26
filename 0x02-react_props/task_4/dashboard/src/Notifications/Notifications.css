@@ -1,0 +1,31 @@
+.notif-holder {
+  padding-right: 8px;
+  padding-top: 8px;
+  position: absolute;
+  right: 0;
+}
+
+.menuItem {
+  margin-bottom: 4px;
+  text-align: right;
+}
+
+.Notifications {
+  position: relative;
+  padding: 8px 16px;
+  border: 2px solid rgb(97, 80, 255);
+  border-style: dashed;
+}
+
+p {
+  padding: 0;
+  margin: 0;
+}
+
+li[data-notification-type="default"] {
+  color: blue;
+}
+
+li[data-notification-type="urgent"] {
+  color: red;
+}
