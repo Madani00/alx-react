@@ -1,0 +1,8 @@
+.App-logo {
+  pointer-events: none;
+}
+
+.App-body {
+  padding: 20px;
+  min-height: 60vh;
+}
