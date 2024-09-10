@@ -4,5 +4,3 @@
 - JavaScript
 - ES6
 - React
-
-- l
