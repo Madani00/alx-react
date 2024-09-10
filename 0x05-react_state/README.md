@@ -5,4 +5,4 @@
 - ES6
 - React
 
-- llp
+- l
