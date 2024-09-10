@@ -5,5 +5,4 @@
 - ES6
 - React
 
-- llll
-mm
+- ll
